@@ -1,0 +1,5 @@
+XXX:XXX.XXX.XXX;user1@yourdomain.com;userpass1;YYY.YYY.YYY.YYY;user1@yourdomain.com;userpass1;
+XXX:XXX.XXX.XXX;user2@yourdomain.com;userpass1;YYY.YYY.YYY.YYY;user2@yourdomain.com;userpass1;
+XXX:XXX.XXX.XXX;user3@yourdomain.com;userpass1;YYY.YYY.YYY.YYY;user3@yourdomain.com;userpass1;
+XXX:XXX.XXX.XXX;user4@yourdomain.com;userpass1;YYY.YYY.YYY.YYY;user4@yourdomain.com;userpass1;
+XXX:XXX.XXX.XXX;user5@yourdomain.com;userpass1;YYY.YYY.YYY.YYY;user5@yourdomain.com;userpass1;
